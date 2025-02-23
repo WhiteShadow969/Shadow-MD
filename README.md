@@ -1,13 +1,13 @@
 <p align="center">
-  <h1 align="center">❄️ SUBZERO-MD ❄️</h1>
+  <h1 align="center">😌 SHADOW-MD 😏</h1>
 </p>
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/WhiteShadow969/followers"><img title="Followers" src="https://img.shields.io/github/followers/WhiteShadow969?color=blue&style=flat-square"></a>
+<a href="https://github.com/WhiteShadow969/Shadow-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WhiteShadow969/SUBZERO?color=blue&style=flat-square"></a>
+<a href="https://github.com/WhiteShadow969/Shadow-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WhiteShadow969/Shadow-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/WhiteShadow969/Shadow-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/WhiteShadow969/Shadow-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/WhiteShadow969/Shadow-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -21,8 +21,8 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ---
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc">
-    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
+  <a href="https://github.com/WhiteShadow969">
+    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=Shadow-MD-+MultiDevice;Developed+by+White+Shadow;Give+star+and+fork+this+Repo+bro+🌟" alt="whiteshadowReadme">
   </a>
 </p>
 
@@ -35,25 +35,25 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ***
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Frank-397604.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/WhiteShadow969"><img title="Developer" src="https://img.shields.io/badge/Author-White%20Shadow-397604.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb0mA2i3QxS2C1kvFp3p)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SUBZERO-MD}/count.svg" alt="mrfrank-ofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrfrank-ofc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Shadow-MD}/count.svg" alt="WhiteShadow969 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{WhiteShadow969}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/mrfrank-ofc/SUBZERO"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/WhiteShadow969/Shadow-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Shadow-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc/SUBZERO"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/WhiteShadow969/Shadow-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -63,11 +63,11 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mrfrank-ofc/SUBZERO/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/WhiteShadow969/Shadow-MD/fork"><img title="Shadow-MD" src="https://img.shields.io/badge/FORK-Shadow-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
-You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
+You will need a session ID to run the Shadow-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
 > **1️⃣Pair Code (Session ID)**
 
@@ -92,7 +92,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 ---
 
-<h2 align="center">SubZero Deployment Options</h2>
+<h2 align="center">Shadow Deployment Options</h2>
 
 ---
 
@@ -101,7 +101,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrank-ofc/SUBZERO/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/WhiteShadow969/Shadow-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
@@ -130,13 +130,13 @@ You will see a dashboard of bots listed
 
 
 Click next , next
-Until you see SUBZERO MD
+Until you see Shadow MD
 Then click on it
 
 You will be asked to fill in some stuffs like your session Id , and other stuffs on how you want your bot to be ( bot settings ) , it's not hard I added examples
 
 
-Get session I'd here:
+Get session ID here:
 
 https://tinyurl.com/subzero-md-session-id
 
@@ -149,7 +149,7 @@ It will show
 
 That's all bot connected
 
-`MR FRANK OFC`</h6>
+`WHITE SHADOW`</h6>
 </details>
 
 --------------
@@ -160,7 +160,7 @@ That's all bot connected
 
 
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfrank-ofc/SUBZERO-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=WhiteShadow969/Shadow-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20Shadow-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
 -----
 <h4 align="center">4. Railway</h4>
@@ -192,7 +192,7 @@ That's all bot connected
 
 <h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy SubZero On Hugging Face For Free !*
+*❄️ Deploy Shadow On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -219,7 +219,7 @@ That's all bot connected
 
 > CREDITS PIKABOTZ🎐
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
+*Powered By White e Shadow*</h6>
 
 </details>
 
@@ -292,7 +292,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb0mA2i3QxS2C1kvFp3p)
 
 ***
 
@@ -317,12 +317,12 @@ Stay connected with the latest updates and community by joining our official Wha
 
 ### Thank You Dear
 
-> DEVELOPER OF SUBZERO-MD 
-- [Mr Frank ](https://github.com/mrfrank-ofc)
-- Creater and Owner Of SUBZERO-MD
+> DEVELOPER OF Shadow-MD 
+- [White Shadow](https://github.com/WhiteShadow969)
+- Creater and Owner Of Shadow-MD
 
-> SUBZERO-MD Helper
-- [Frank](https://github.com/efkidgamerdev)
+> Shadow-MD Helper
+- [Null Entity](https://github.com/Null-3ntity)
 - For helping in bot plugin files.
 ---
 
@@ -338,7 +338,7 @@ Stay connected with the latest updates and community by joining our official Wha
 <br>
 
 ```
-Thank you Pikachu, KHAN, SILENT SOBX, KERM & you supporters
+Thank you for choosing Shadow MD
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
