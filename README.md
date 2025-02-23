@@ -4,7 +4,7 @@
 
   <p align="center">
 <a href="https://github.com/WhiteShadow969/followers"><img title="Followers" src="https://img.shields.io/github/followers/WhiteShadow969?color=blue&style=flat-square"></a>
-<a href="https://github.com/WhiteShadow969/Shadow-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WhiteShadow969/SUBZERO?color=blue&style=flat-square"></a>
+<a href="https://github.com/WhiteShadow969/Shadow-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WhiteShadow969/Shadow-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/WhiteShadow969/Shadow-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WhiteShadow969/Shadow-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/WhiteShadow969/Shadow-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/WhiteShadow969/Shadow-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/WhiteShadow969/Shadow-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
