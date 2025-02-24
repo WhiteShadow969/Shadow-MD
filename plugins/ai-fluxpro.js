@@ -2,19 +2,19 @@
 
 /*
 
-$$$$$$\            $$\                                               
-$$  __$$\           $$ |                                              
-$$ /  \__|$$\   $$\ $$$$$$$\  $$$$$$$$\  $$$$$$\   $$$$$$\   $$$$$$\  
-\$$$$$$\  $$ |  $$ |$$  __$$\ \____$$  |$$  __$$\ $$  __$$\ $$  __$$\ 
- \____$$\ $$ |  $$ |$$ |  $$ |  $$$$ _/ $$$$$$$$ |$$ |  \__|$$ /  $$ |
-$$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
-\$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
- \______/  \______/ \_______/ \________| \_______|\__|       \______/
+$$$$$$\                                                      
+$$  __$$\                                                        
+$$ /  \__|$$\   $$\ $$$$$$$\  $$$$$\  $$$$$$$$|$$\                 $$/
+\$$$$$$\  $$ |  $$ |$$  __$$\ $$|   $\ $$|  $$| $$\               $$/
+ \____$$\ $$$$$$$$ |$$$$$$$$ |$$|    $|$$| n$$|   $$\    $$\     $$/
+$$\   $$ |$$ |  $$ |$$ |  $$ |$$|   $/ $$|__$$|     $$\ $$/$$\ $$/
+\$$$$$$  |$$ |  $$ |$$ |  $$ |$$$$$/   $$$$$$$|       $$/      $$/
+ \______/  \______/ \_______/ \___/   |_______|      \__/     \__/
 
-Project Name : SubZero MD
-Creator      : Darrell Mucheri ( Mr Frank OFC )
-Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
-Support      : wa.me/18062212660
+Project Name : Shadow MD
+Creator      : Darrell Mucheri ( White Shadow )
+Repo         : https//github.com/WhiteShadow969/Shadow-MD
+Support      : wa.me/263713431767
 */
 
 
@@ -86,11 +86,11 @@ cmd({
       return reply(`*Usage:* ${command} <prompt>\n\n*Example:* ${command} cat`);
     }
 
-    await reply('> *Subzero Processing Image...*');
+    await reply('> *Shadow Processing Image...*');
 
     const apiUrl = `https://api.davidcyriltech.my.id/flux?prompt=${encodeURIComponent(text)}`;
 
-    await conn.sendMessage(m.chat, { image: { url: apiUrl }, caption: `🎨 *Flux Image Generator*\n\n📄 *Prompt:* ${text}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ` }, { quoted: m });
+    await conn.sendMessage(m.chat, { image: { url: apiUrl }, caption: `🎨 *Flux Image Generator*\n\n📄 *Prompt:* ${text}\n\n> powered by white shadow` }, { quoted: m });
   } catch (error) {
     console.error('Error in Flux command:', error);
     reply(`*AN ERROR OCCURRED!! MESSAGE :*\n\n> ${error.message}`);
