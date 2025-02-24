@@ -12,7 +12,7 @@ $$\   $$ |$$ |  $$ |$$ |  $$ |$$|   $/ $$|__$$|     $$\ $$/$$\ $$/
  \______/  \______/ \_______/ \___/   |_______|      \__/     \__/
 
 Project Name : Shadow MD
-Creator      : Darrell Mucheri ( White Shadow )
+Creator      : Prince Mandivhei ( White Shadow )
 Repo         : https//github.com/WhiteShadow969/Shadow-MD
 Support      : wa.me/263713431767
 */
